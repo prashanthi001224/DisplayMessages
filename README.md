@@ -1,1 +1,1 @@
-# DisplayMessages on the screen about a person status
+# DisplayMessages on the screen about a person status details
